@@ -1,0 +1,6 @@
+->Font Awesome cdn para iconos
+->hero pattern para background
+->iconos8.es para otros iconos
+->Google Fonts para las fuentes 
+->pexels.com para imagenes
+->https://scrollrevealjs.org/ para dar efecto cuando se hace scroll en la pagina
